@@ -1,7 +1,9 @@
 {
-  "name": "json-editor",
+  "name": "json-editor-doug-gv",
   "authors": [
-    "Jeremy Dorn <jeremy@jeremydorn.com>"
+    "Jeremy Dorn <jeremy@jeremydorn.com>",
+    "Doug Lee <doug.lee@guidevine.com>"
+
   ],
   "description": "JSON Schema based editor",
   "main": "dist/jsoneditor.js",
